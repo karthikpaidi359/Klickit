@@ -1,6 +1,6 @@
 # 🚀 Klickit – AI Concept Simplifier
 
-**Klickit** is a simple and smart AI-powered web app that explains any concept in easy, understandable language — with optional audio playback!
+**Klickit** is a simple and smart AI-powered web app that explains any concept in easy, understandable language — with audio playback!
 
 > Built using FLAN-T5 (Google's instruction-following model), Gradio, and gTTS.
 
